@@ -9,3 +9,7 @@ Uses Python. Faker, numpy and pandas are required, but as written, the code also
 - 2000+ donation transactions
 - Realistic patterns and logic (i.e., monthly sustainers actually have monthly donations at different amounts)
 - Events, campaigns, and acquisition methods 
+
+
+
+(Code by me + Sonnet!)
